@@ -49,7 +49,7 @@ params:
           enabled: true
           title: Laurel Sparks
           subtitle: "Digital. Urban. Geospatial. Cartography. (Dis)ability."
-          imageUrl: "prof_pic.jpg"
+          imageUrl: prof_pic.jpg
           imageWidth: 160
           imageHeight: 160
           imageTitle: Laurel Sparks
@@ -63,7 +63,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: "\CV_Sparks.pdf"
+          url: CV_Sparks.pdf
         - name: Email
           url: mailto:sparkslaurel@gmail.com
         - name: University of Kentucky
