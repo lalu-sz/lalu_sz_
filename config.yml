@@ -11,27 +11,22 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: /papers/
+        - name: Portfolio
+          url: /portfolio/
           weight: 1
-        - name: Courses
-          url: /courses/
+        - name: CV
+          url: /CV/
           weight: 2
-        - name: Design
-          url: /design/
+        - name: CV
+          url: /CV/
           weight: 3        
-        - name: Book
-          url: /b1/
-          weight: 4
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 5
+
 
 params:
     description: "Digital. Urban. Geospatial. Cartography. (Dis)ability."
     author: Laurel Sparks
     googleAnalyticsID: "G-97G4MZ4061"
-    DateFormat: "January 2006"
+    DateFormat: "Spring 2024"
     defaultTheme: dark
     hideFooter: true
     disableThemeToggle: true
@@ -53,42 +48,30 @@ params:
     profileMode:
           enabled: true
           title: Laurel Sparks
-          subtitle: "Digital. Urban. Geospatial. Cartography.(Dis)ability."
-          imageUrl: "C:/Users/spark/OneDrive/Documents/GitHub/PERSONAL_SITE/lalu_sz_/prof_pic.jpg"
+          subtitle: "Digital. Urban. Geospatial. Cartography. (Dis)ability."
+          imageUrl: "C:\Users\spark\OneDrive\Documents\GitHub\PERSONAL_SITE\lalu_sz_\\prof_pic.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Laurel Sparks
           buttons:
-            - name: Papers
-              url: /papers/
-            - name: Courses
-              url: /courses/
-            - name: Design
-              url: /design/
-            - name: Book
-              url: /b1/
-            # - name: Newsletter
-            #   url: https://pmichaillat.substack.com
-            - name: Tags
-              url: /tags/
-            - name: Archive
-              url: /archive/
+            - name: Portfolio
+              url: /portfolio/
+            - name: Publications
+              url: /publications/
+            - name: CV
+              url: /CV/
 
     socialIcons:
         - name: CV
-          url: /CV_Sparks.pdf
+          url: "\CV_Sparks.pdf"
         - name: Email
           url: mailto:sparkslaurel@gmail.com
-        - name: Location
+        - name: University of Kentucky
           url: /location/
-        - name: Office Hours
+        - name: Contact
           url: /officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/lalu-sz
 
     assets:
         disableHLJS: true
@@ -97,7 +80,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "Laurel Sparks"
       icon: /favicon.ico
       iconHeight: 18
 
