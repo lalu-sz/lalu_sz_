@@ -1,5 +1,5 @@
 baseURL: "https://lalu-sz.github.io/lalu_sz_/" 
-title: La_Lu_Sz
+title: lalu_sz
 paginate: 20
 theme: PaperMod
 
@@ -23,11 +23,11 @@ menu:
 
 
 params:
-    description: "Digital. Urban. Geospatial. Cartography. (Dis)ability."
+    description: "Keywords."
     author: Laurel Sparks
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "Spring 2024"
-    defaultTheme: dark
+    defaultTheme: "dark"
     hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
@@ -48,8 +48,8 @@ params:
     profileMode:
           enabled: true
           title: Laurel Sparks
-          subtitle: "Digital. Urban. Geospatial. Cartography. (Dis)ability."
-          imageUrl: prof_pic.jpg
+          subtitle: "(Im)mobility. Urban. Digital. Feminist Data Studies. GIS. 
+          imageUrl: "updated_hs.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Laurel Sparks
@@ -66,10 +66,8 @@ params:
           url: CV_Sparks.pdf
         - name: Email
           url: mailto:sparkslaurel@gmail.com
-        - name: University of Kentucky
+        - name: Office Hours
           url: /location/
-        - name: Contact
-          url: /officehours/
         - name: GitHub
           url: https://github.com/lalu-sz
 
