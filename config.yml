@@ -63,7 +63,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: CV_Sparks.pdf
+          url: "CV_Sparks.pdf"
         - name: Email
           url: mailto:sparkslaurel@gmail.com
         - name: Office Hours
